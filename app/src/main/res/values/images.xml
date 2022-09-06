@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/cycling</item>
+        <item>@drawable/ic_baseline_work_24</item>
+        <item>@drawable/ic_baseline_work_24</item>
+        <item>@drawable/cycling</item>
+
+        <item>@drawable/ic_baseline_work_24</item>
+        <item>@drawable/ic_baseline_work_24</item>
+        <item>@drawable/cycling</item>
+
+    </array>
+
+</resources>
